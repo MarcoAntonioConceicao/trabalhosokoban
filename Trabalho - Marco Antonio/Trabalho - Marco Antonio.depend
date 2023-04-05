@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1680722093 source:c:\users\conce\desktop\trabalho - marco antonio\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<cstdlib>
+	"funcoesprograma.hpp"
+
+1680722256 c:\users\conce\desktop\trabalho - marco antonio\funcoesprograma.hpp
+
